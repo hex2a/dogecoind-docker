@@ -1,4 +1,4 @@
-FROM dogecoind:v1
+FROM hx2a/dogecoind:latest
 
 EXPOSE 44555 44556
 
